@@ -10,9 +10,33 @@ Instacart already has very good sales, but they want to uncover more information
 
 ● Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
-# Data and Tools
-The tools used for this analysis is python. 
+# Tools
+The tools used for this analysis is python. The different libraries were used in python fot this prooject: 
+● Panda
+● Numpy
+● Seaborn
+● Matplotlib
+● Scipy
 
-Instacart Data Sets:
+# Data
+I used 5 data sets for this project: 
+● Order 
+● Orders_products_prior
+● Products
+● Customers 
+● Departments
+
+# Project Folders 
+The project folders are split up into: 
+ - Project MAnagement: Brief and details about the project.
+ - Scripts: Jupyter notebooks with codes
+ - Analysis: Contains a folder with the visualizations from the analysis.
+ - Data: This consist of two sub folders named "Original Data" and "Prepared data". Original data is the inital data for the analysis and Prepared data is data which has been cleaned and transformed from analysis.
+ - Sent to Client: Consist of Final document from the analsysis.
+
+# Resources 
+Intacart Data was gotten from: 
 “The Instacart Online Grocery Shopping
-Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle. 
+Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
+
+Regardless of Instacart being a real company, Content, scenario and brief was created by CareerFoundry specifically for this project. 
