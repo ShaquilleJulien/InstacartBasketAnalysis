@@ -10,7 +10,7 @@ Instacart already has very good sales, but they want to uncover more information
 
 ● Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
-Data and Tools
+# Data and Tools
 The tools used for this analysis is python. 
 
 Instacart Data Sets:
