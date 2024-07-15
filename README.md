@@ -16,8 +16,7 @@ product orders.
 
 Data and Tools
 The tools used for this analysis is python. 
+
 Instacart Data Sets:
-● Data Dictionary
-● Citation (required in your final report): “The Instacart Online Grocery Shopping
-Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017
-via Kaggle on <date>. 
+“The Instacart Online Grocery Shopping
+Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle. 
