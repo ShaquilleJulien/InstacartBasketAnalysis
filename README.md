@@ -28,7 +28,7 @@ I used 5 data sets for this project:
 
 # Project Folders 
 The project folders are split up into: 
- - Project MAnagement: Brief and details about the project.
+ - Project Management: Brief and details about the project.
  - Scripts: Jupyter notebooks with codes
  - Analysis: Contains a folder with the visualizations from the analysis.
  - Data: This consist of two sub folders named "Original Data" and "Prepared data". Original data is the inital data for the analysis and Prepared data is data which has been cleaned and transformed from analysis.
