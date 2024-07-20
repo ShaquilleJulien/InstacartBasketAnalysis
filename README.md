@@ -12,18 +12,28 @@ Instacart already has very good sales, but they want to uncover more information
 
 # Tools
 The tools used for this analysis is python. The different libraries were used in python fot this prooject: 
+
 ● Panda
+
 ● Numpy
+
 ● Seaborn
+
 ● Matplotlib
+
 ● Scipy
 
 # Data
 I used 5 data sets for this project: 
+
 ● Order 
+
 ● Orders_products_prior
+
 ● Products
+
 ● Customers 
+
 ● Departments
 
 # Project Folders 
